@@ -1,0 +1,3 @@
+name: slimshadeey1-t3
+main: com.tenjava.entries.slimshadeey1.t3.TenJava
+version: '${project.version}'
